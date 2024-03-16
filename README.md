@@ -1,5 +1,5 @@
 				      	    	 STO PENSANDO AL GIOCO IL GIOCO
-							          E' IL FOCUS
+							 E' IL FOCUS
 
 All'inizio del gioco si sceglie una nazione o una regione (e la difficoltà, se si può fare), e si inizia. Nel gioco si alternano i turni del giocatore e i turni del computer. Durante il suo turno, il giocatore può compiere le seguenti azioni: Attacco, Negoziazione, Rifornimento, Opera per i Cittadini, Rafforzamento e Resa. Le risorse a disposizione del giocatore sono: Moneta, Esercito, Risorse Naturali e Risorse Lavorate. Inoltre, ogni stato possiede una Forza Lavoro, legata agli abitanti della nazione e alla sua ricchezza, che rappresenta un limite oltre cui lo stato non è in grado di produrre (proDuce?!?!?!?) (equazione da creare). Successivamente c'è il Livello Statale, ovvero un numero che rappresenta il numero di attacchi che possono essere compiuti dallo stato in un turno. Infine, in ognuno dei propri turni, è possibile attivare o meno la modalità Leva Obbligatoria (deh peffo). La partita si vince in due casi: se si conquista tutto il mondo, oppure se tutti i territori non sotto il proprio controllo sono in mano a stati alleati. Si perde se si viene annichiliti come diobo Cartagine.
 
