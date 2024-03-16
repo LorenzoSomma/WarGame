@@ -31,7 +31,7 @@ FORZA LAVORO:
 Da fare l'equazione, dipende dal numero di abitanti, ricchezza del territorio, eventuale presenza della Leva Obbligatoria, e da eventuali Opere per i Cittadini.
 
 LIVELLO STATALE:
-Il livello che identifica la forza complessiva dello stato. Io lo farei da 1 a 20, e dipende da numero di risorse possedute, principalmente dalla forza dell'esercito, dal numero di territori posseduti, e dalle alleanze strette.
+Il livello che identifica la forza complessiva dello stato. Io lo farei da 1 a 20, e dipende dal numero di risorse possedute, principalmente dalla forza dell'esercito, dal numero di territori posseduti, e dalle alleanze strette.
 
 LEVA OBBLIGATORIA:
 Questa modalità può essere attivata su tutto lo stato, e può essere disattivata in qualunque momento nel proprio turno (se viene disattivata bisogna aspettare due turni prima di poterla riattivare). Se disattivata, al giocatore compare un'altra opzione, Arruola, che consente di arruolare un quantitativo di truppe dipendente dal numero di abitanti del territorio e dalla Forza Lavoro. E' possibile scegliere la tipologia di truppe che si vuole arruolare, tenendo conto che arruolare truppe di livello superiore costa più risorse. Se attivata, le truppe aumentano in automatico all'inizio di ogni turno, e in quantitativo maggiore rispetto a ciò che si potrebbe ottenere manualmente, ma la Forza Lavoro di ogni territorio cala drasticamente.
